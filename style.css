@@ -1,0 +1,17 @@
+h1 {
+  color: #369369;
+  font-family: courier;
+}
+p {
+  font-size: 18px;
+}
+
+.subheading {
+  font-style: italic;
+  font-weight: 100;
+}
+
+#primary-welcome {
+  color: #f96302;
+  font-family: arial;
+}
